@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Socket</string>
+    <string name="clientHostText">IP地址</string>
+    <string name="clientPortText">端口号</string>
+    <string name="clientHost">192.168.1.107</string>
+    <string name="clientPort">50000</string>
+
+    <string name="clientConnect">Connect</string>
+    <string name="submit">Submit</string>
+
+    <string name="User">用户</string>
+    <string name="Class">班级</string>
+    <string name="Age">年龄</string>
+
+</resources>
